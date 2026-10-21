@@ -1,0 +1,17 @@
+{
+  "name": "홍보물 자동 생성기",
+  "short_name": "홍보자동화",
+  "description": "매장 사진을 인스타 크기로 바꾸고 홍보 문구를 한 번에 만들어 줍니다.",
+  "lang": "ko",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#faf7f3",
+  "theme_color": "#7a4a32",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
